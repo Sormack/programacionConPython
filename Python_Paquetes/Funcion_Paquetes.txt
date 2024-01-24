@@ -1,0 +1,5 @@
+Son directorios o paquetes dode se almacenan modulos relacionado entre si
+Es to sirve para organizar y reutiulizar el codigo
+Para crear un paquete se necesita una carpeta con un archivo __init__.py
+Se puden crear subpaquetes que son paquetes dentro de otro paquete
+Donde tambien se tiene que crea un archivo  __init__.py
